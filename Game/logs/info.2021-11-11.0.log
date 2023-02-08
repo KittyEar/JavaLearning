@@ -1,0 +1,134 @@
+2021-11-11 10:46:51.239 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource[350] - HikariPool-1 - Shutdown initiated...
+2021-11-11 10:46:51.254 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource[352] - HikariPool-1 - Shutdown completed.
+2021-11-11 10:46:58.624 [main] INFO  com.gameserver.GameServerApplication[55] - Starting GameServerApplication using Java 1.8.0_261 on DESKTOP-P25BT9T with PID 12936 (D:\IdeaProjects\Game\GameServer\target\classes started by KittyGuy in D:\IdeaProjects\Game)
+2021-11-11 10:46:58.630 [main] INFO  com.gameserver.GameServerApplication[659] - No active profile set, falling back to default profiles: default
+2021-11-11 10:46:59.931 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer[108] - Tomcat initialized with port(s): 8081 (http)
+2021-11-11 10:46:59.937 [main] INFO  org.apache.coyote.http11.Http11NioProtocol[173] - Initializing ProtocolHandler ["http-nio-8081"]
+2021-11-11 10:46:59.937 [main] INFO  org.apache.catalina.core.StandardService[173] - Starting service [Tomcat]
+2021-11-11 10:46:59.937 [main] INFO  org.apache.catalina.core.StandardEngine[173] - Starting Servlet engine: [Apache Tomcat/9.0.53]
+2021-11-11 10:46:59.938 [main] INFO  org.apache.catalina.core.AprLifecycleListener[173] - An older version [1.2.26] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.30]
+2021-11-11 10:46:59.939 [main] INFO  org.apache.catalina.core.AprLifecycleListener[173] - Loaded Apache Tomcat Native library [1.2.26] using APR version [1.7.0].
+2021-11-11 10:46:59.939 [main] INFO  org.apache.catalina.core.AprLifecycleListener[173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+2021-11-11 10:46:59.939 [main] INFO  org.apache.catalina.core.AprLifecycleListener[173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2021-11-11 10:46:59.942 [main] INFO  org.apache.catalina.core.AprLifecycleListener[173] - OpenSSL successfully initialized [OpenSSL 1.1.1i  8 Dec 2020]
+2021-11-11 10:47:00.007 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/][173] - Initializing Spring embedded WebApplicationContext
+2021-11-11 10:47:00.008 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext[290] - Root WebApplicationContext: initialization completed in 1329 ms
+2021-11-11 10:47:01.260 [main] INFO  org.apache.coyote.http11.Http11NioProtocol[173] - Starting ProtocolHandler ["http-nio-8081"]
+2021-11-11 10:47:01.272 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer[220] - Tomcat started on port(s): 8081 (http) with context path ''
+2021-11-11 10:47:01.373 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-11 10:47:01.396 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-11 10:47:01.401 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-11 10:47:01.403 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-11 10:47:01.416 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-11 10:47:01.418 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-11 10:47:01.422 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-11 10:47:01.435 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-11 10:47:01.437 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-11 10:47:01.440 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-11 10:47:01.443 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-11 10:47:01.445 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-11 10:47:01.446 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-11 10:47:01.448 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-11 10:47:01.449 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-11 10:47:01.469 [main] INFO  com.gameserver.GameServerApplication[61] - Started GameServerApplication in 3.316 seconds (JVM running for 4.332)
+2021-11-11 10:47:01.503 [main] INFO  com.zaxxer.hikari.HikariDataSource[110] - HikariPool-1 - Starting...
+2021-11-11 10:47:02.080 [main] INFO  com.zaxxer.hikari.HikariDataSource[123] - HikariPool-1 - Start completed.
+2021-11-11 10:49:14.532 [http-nio-8081-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/][173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-11-11 10:49:14.532 [http-nio-8081-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet[525] - Initializing Servlet 'dispatcherServlet'
+2021-11-11 10:49:14.533 [http-nio-8081-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet[547] - Completed initialization in 0 ms
+2021-11-11 10:49:54.794 [http-nio-8081-exec-6] INFO  com.gameserver.service.PlayerService[130] - Player(accountId=5, nickName=player001, lv=1, profile=0, coin=999, checkPoint=1, lastFreeLotteryTime=null)
+2021-11-11 10:50:43.736 [http-nio-8081-exec-9] ERROR o.a.c.c.C.[.[localhost].[/].[dispatcherServlet][175] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at com.gameserver.service.ItemService.addItemInDB(ItemService.java:154)
+	at com.gameserver.service.ItemService.addItem(ItemService.java:135)
+	at com.gameserver.controller.ItemController.addItem(ItemController.java:25)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1726)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2021-11-11 10:53:12.430 [http-nio-8081-exec-4] INFO  com.gameserver.service.PlayerService[130] - Player(accountId=5, nickName=player001, lv=1, profile=0, coin=999, checkPoint=1, lastFreeLotteryTime=null)
+2021-11-11 10:57:27.922 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource[350] - HikariPool-1 - Shutdown initiated...
+2021-11-11 10:57:27.928 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource[352] - HikariPool-1 - Shutdown completed.
+2021-11-11 10:57:30.703 [main] INFO  com.gameserver.GameServerApplication[55] - Starting GameServerApplication using Java 1.8.0_261 on DESKTOP-P25BT9T with PID 7336 (D:\IdeaProjects\Game\GameServer\target\classes started by KittyGuy in D:\IdeaProjects\Game)
+2021-11-11 10:57:30.707 [main] INFO  com.gameserver.GameServerApplication[659] - No active profile set, falling back to default profiles: default
+2021-11-11 10:57:31.848 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer[108] - Tomcat initialized with port(s): 8081 (http)
+2021-11-11 10:57:31.854 [main] INFO  org.apache.coyote.http11.Http11NioProtocol[173] - Initializing ProtocolHandler ["http-nio-8081"]
+2021-11-11 10:57:31.854 [main] INFO  org.apache.catalina.core.StandardService[173] - Starting service [Tomcat]
+2021-11-11 10:57:31.854 [main] INFO  org.apache.catalina.core.StandardEngine[173] - Starting Servlet engine: [Apache Tomcat/9.0.53]
+2021-11-11 10:57:31.856 [main] INFO  org.apache.catalina.core.AprLifecycleListener[173] - An older version [1.2.26] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.30]
+2021-11-11 10:57:31.856 [main] INFO  org.apache.catalina.core.AprLifecycleListener[173] - Loaded Apache Tomcat Native library [1.2.26] using APR version [1.7.0].
+2021-11-11 10:57:31.856 [main] INFO  org.apache.catalina.core.AprLifecycleListener[173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+2021-11-11 10:57:31.856 [main] INFO  org.apache.catalina.core.AprLifecycleListener[173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2021-11-11 10:57:31.858 [main] INFO  org.apache.catalina.core.AprLifecycleListener[173] - OpenSSL successfully initialized [OpenSSL 1.1.1i  8 Dec 2020]
+2021-11-11 10:57:31.924 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/][173] - Initializing Spring embedded WebApplicationContext
+2021-11-11 10:57:31.924 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext[290] - Root WebApplicationContext: initialization completed in 1170 ms
+2021-11-11 10:57:33.178 [main] INFO  org.apache.coyote.http11.Http11NioProtocol[173] - Starting ProtocolHandler ["http-nio-8081"]
+2021-11-11 10:57:33.189 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer[220] - Tomcat started on port(s): 8081 (http) with context path ''
+2021-11-11 10:57:33.290 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-11 10:57:33.313 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-11 10:57:33.319 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-11 10:57:33.321 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-11 10:57:33.334 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-11 10:57:33.336 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-11 10:57:33.340 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-11 10:57:33.353 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-11 10:57:33.355 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-11 10:57:33.358 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-11 10:57:33.361 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-11 10:57:33.363 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-11 10:57:33.365 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-11 10:57:33.366 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-11 10:57:33.368 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-11 10:57:33.386 [main] INFO  com.gameserver.GameServerApplication[61] - Started GameServerApplication in 3.113 seconds (JVM running for 4.072)
+2021-11-11 10:57:33.421 [main] INFO  com.zaxxer.hikari.HikariDataSource[110] - HikariPool-1 - Starting...
+2021-11-11 10:57:33.932 [main] INFO  com.zaxxer.hikari.HikariDataSource[123] - HikariPool-1 - Start completed.
+2021-11-11 10:58:02.407 [http-nio-8081-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/][173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-11-11 10:58:02.407 [http-nio-8081-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet[525] - Initializing Servlet 'dispatcherServlet'
+2021-11-11 10:58:02.408 [http-nio-8081-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet[547] - Completed initialization in 1 ms
+2021-11-11 10:58:15.951 [http-nio-8081-exec-2] INFO  com.gameserver.service.PlayerService[130] - Player(accountId=5, nickName=player001, lv=1, profile=0, coin=999, checkPoint=1, lastFreeLotteryTime=null)

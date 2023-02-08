@@ -1,0 +1,22 @@
+2021-12-20 11:12:34.523 [main] INFO  com.gameserver.GameServerApplicationTests[55] - Starting GameServerApplicationTests using Java 1.8.0_261 on DESKTOP-P25BT9T with PID 17048 (started by KittyGuy in D:\IdeaProjects\Game\GameServer)
+2021-12-20 11:12:34.529 [main] INFO  com.gameserver.GameServerApplicationTests[659] - No active profile set, falling back to default profiles: default
+2021-12-20 11:12:38.772 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-12-20 11:12:38.789 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-12-20 11:12:38.795 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-12-20 11:12:38.798 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-12-20 11:12:38.809 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-12-20 11:12:38.813 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-12-20 11:12:38.819 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-12-20 11:12:38.844 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-12-20 11:12:38.847 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-12-20 11:12:38.852 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-12-20 11:12:38.856 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-12-20 11:12:38.859 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-12-20 11:12:38.862 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-12-20 11:12:38.864 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-12-20 11:12:38.868 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-12-20 11:12:38.893 [main] INFO  com.gameserver.GameServerApplicationTests[61] - Started GameServerApplicationTests in 4.857 seconds (JVM running for 6.333)
+2021-12-20 11:12:38.952 [main] INFO  com.zaxxer.hikari.HikariDataSource[110] - HikariPool-1 - Starting...
+2021-12-20 11:12:40.038 [main] INFO  com.zaxxer.hikari.HikariDataSource[123] - HikariPool-1 - Start completed.
+2021-12-20 11:12:40.481 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource[350] - HikariPool-1 - Shutdown initiated...
+2021-12-20 11:12:40.492 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource[352] - HikariPool-1 - Shutdown completed.

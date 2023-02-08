@@ -1,0 +1,171 @@
+2021-11-07 16:43:35.784 [main] INFO  com.gameserver.GameServerApplicationTests[55] - Starting GameServerApplicationTests using Java 1.8.0_261 on DESKTOP-P25BT9T with PID 20988 (started by KittyGuy in D:\IdeaProjects\Game\GameServer)
+2021-11-07 16:43:35.794 [main] INFO  com.gameserver.GameServerApplicationTests[659] - No active profile set, falling back to default profiles: default
+2021-11-07 16:43:39.788 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:43:39.821 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:43:39.829 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:43:39.833 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:43:39.861 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:43:39.864 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:43:39.868 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:43:39.872 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:43:39.876 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:43:39.879 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:43:39.882 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:43:39.885 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:43:39.904 [main] INFO  com.gameserver.GameServerApplicationTests[61] - Started GameServerApplicationTests in 4.504 seconds (JVM running for 5.825)
+2021-11-07 16:43:39.959 [main] INFO  com.zaxxer.hikari.HikariDataSource[110] - HikariPool-1 - Starting...
+2021-11-07 16:43:41.075 [main] INFO  com.zaxxer.hikari.HikariDataSource[123] - HikariPool-1 - Start completed.
+2021-11-07 16:43:41.450 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource[350] - HikariPool-1 - Shutdown initiated...
+2021-11-07 16:43:41.459 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource[352] - HikariPool-1 - Shutdown completed.
+2021-11-07 16:44:53.779 [main] INFO  com.gameserver.GameServerApplicationTests[55] - Starting GameServerApplicationTests using Java 1.8.0_261 on DESKTOP-P25BT9T with PID 12216 (started by KittyGuy in D:\IdeaProjects\Game\GameServer)
+2021-11-07 16:44:53.781 [main] INFO  com.gameserver.GameServerApplicationTests[659] - No active profile set, falling back to default profiles: default
+2021-11-07 16:44:57.185 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:44:57.218 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:44:57.227 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:44:57.230 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:44:57.259 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:44:57.261 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:44:57.266 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:44:57.268 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:44:57.271 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:44:57.274 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:44:57.276 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:44:57.279 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:44:57.297 [main] INFO  com.gameserver.GameServerApplicationTests[61] - Started GameServerApplicationTests in 3.893 seconds (JVM running for 4.91)
+2021-11-07 16:44:57.349 [main] INFO  com.zaxxer.hikari.HikariDataSource[110] - HikariPool-1 - Starting...
+2021-11-07 16:44:58.218 [main] INFO  com.zaxxer.hikari.HikariDataSource[123] - HikariPool-1 - Start completed.
+2021-11-07 16:44:58.523 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource[350] - HikariPool-1 - Shutdown initiated...
+2021-11-07 16:44:58.533 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource[352] - HikariPool-1 - Shutdown completed.
+2021-11-07 16:47:02.376 [main] INFO  com.gameserver.GameServerApplicationTests[55] - Starting GameServerApplicationTests using Java 1.8.0_261 on DESKTOP-P25BT9T with PID 8752 (started by KittyGuy in D:\IdeaProjects\Game\GameServer)
+2021-11-07 16:47:02.378 [main] INFO  com.gameserver.GameServerApplicationTests[659] - No active profile set, falling back to default profiles: default
+2021-11-07 16:47:05.855 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:47:05.888 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:47:05.896 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:47:05.899 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:47:05.929 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:47:05.932 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:47:05.938 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:47:05.940 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:47:05.943 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:47:05.946 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:47:05.949 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:47:05.952 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:47:05.971 [main] INFO  com.gameserver.GameServerApplicationTests[61] - Started GameServerApplicationTests in 3.957 seconds (JVM running for 4.964)
+2021-11-07 16:47:06.025 [main] INFO  com.zaxxer.hikari.HikariDataSource[110] - HikariPool-1 - Starting...
+2021-11-07 16:47:07.010 [main] INFO  com.zaxxer.hikari.HikariDataSource[123] - HikariPool-1 - Start completed.
+2021-11-07 16:47:07.305 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource[350] - HikariPool-1 - Shutdown initiated...
+2021-11-07 16:47:07.313 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource[352] - HikariPool-1 - Shutdown completed.
+2021-11-07 16:47:56.430 [main] INFO  com.gameserver.GameServerApplicationTests[55] - Starting GameServerApplicationTests using Java 1.8.0_261 on DESKTOP-P25BT9T with PID 16900 (started by KittyGuy in D:\IdeaProjects\Game\GameServer)
+2021-11-07 16:47:56.433 [main] INFO  com.gameserver.GameServerApplicationTests[659] - No active profile set, falling back to default profiles: default
+2021-11-07 16:47:59.996 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:48:00.031 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:48:00.040 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:48:00.043 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:48:00.073 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:48:00.076 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:48:00.081 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:48:00.084 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:48:00.087 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:48:00.090 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:48:00.093 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:48:00.096 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:48:00.115 [main] INFO  com.gameserver.GameServerApplicationTests[61] - Started GameServerApplicationTests in 4.072 seconds (JVM running for 5.061)
+2021-11-07 16:48:00.168 [main] INFO  com.zaxxer.hikari.HikariDataSource[110] - HikariPool-1 - Starting...
+2021-11-07 16:48:01.061 [main] INFO  com.zaxxer.hikari.HikariDataSource[123] - HikariPool-1 - Start completed.
+2021-11-07 16:48:01.369 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource[350] - HikariPool-1 - Shutdown initiated...
+2021-11-07 16:48:01.378 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource[352] - HikariPool-1 - Shutdown completed.
+2021-11-07 16:56:03.696 [main] INFO  com.gameserver.GameServerApplicationTests[55] - Starting GameServerApplicationTests using Java 1.8.0_261 on DESKTOP-P25BT9T with PID 9892 (started by KittyGuy in D:\IdeaProjects\Game\GameServer)
+2021-11-07 16:56:03.699 [main] INFO  com.gameserver.GameServerApplicationTests[659] - No active profile set, falling back to default profiles: default
+2021-11-07 16:56:07.365 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:56:07.395 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:56:07.403 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:56:07.406 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:56:07.435 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:56:07.438 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:56:07.443 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:56:07.445 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:56:07.448 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:56:07.450 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:56:07.453 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:56:07.456 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:56:07.479 [main] INFO  com.gameserver.GameServerApplicationTests[61] - Started GameServerApplicationTests in 4.181 seconds (JVM running for 5.235)
+2021-11-07 16:56:07.536 [main] INFO  com.zaxxer.hikari.HikariDataSource[110] - HikariPool-1 - Starting...
+2021-11-07 16:56:08.505 [main] INFO  com.zaxxer.hikari.HikariDataSource[123] - HikariPool-1 - Start completed.
+2021-11-07 16:56:08.797 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource[350] - HikariPool-1 - Shutdown initiated...
+2021-11-07 16:56:08.807 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource[352] - HikariPool-1 - Shutdown completed.
+2021-11-07 16:56:22.874 [main] INFO  com.gameserver.GameServerApplicationTests[55] - Starting GameServerApplicationTests using Java 1.8.0_261 on DESKTOP-P25BT9T with PID 15304 (started by KittyGuy in D:\IdeaProjects\Game\GameServer)
+2021-11-07 16:56:22.877 [main] INFO  com.gameserver.GameServerApplicationTests[659] - No active profile set, falling back to default profiles: default
+2021-11-07 16:56:26.504 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:56:26.536 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:56:26.543 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:56:26.547 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:56:26.577 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:56:26.580 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:56:26.584 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:56:26.587 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:56:26.590 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:56:26.594 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:56:26.597 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:56:26.600 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:56:26.618 [main] INFO  com.gameserver.GameServerApplicationTests[61] - Started GameServerApplicationTests in 4.136 seconds (JVM running for 5.082)
+2021-11-07 16:56:26.671 [main] INFO  com.zaxxer.hikari.HikariDataSource[110] - HikariPool-1 - Starting...
+2021-11-07 16:56:27.618 [main] INFO  com.zaxxer.hikari.HikariDataSource[123] - HikariPool-1 - Start completed.
+2021-11-07 16:56:27.977 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource[350] - HikariPool-1 - Shutdown initiated...
+2021-11-07 16:56:27.987 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource[352] - HikariPool-1 - Shutdown completed.
+2021-11-07 16:57:03.702 [main] INFO  com.gameserver.GameServerApplicationTests[55] - Starting GameServerApplicationTests using Java 1.8.0_261 on DESKTOP-P25BT9T with PID 18916 (started by KittyGuy in D:\IdeaProjects\Game\GameServer)
+2021-11-07 16:57:03.705 [main] INFO  com.gameserver.GameServerApplicationTests[659] - No active profile set, falling back to default profiles: default
+2021-11-07 16:57:07.465 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:57:07.503 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:57:07.511 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:57:07.516 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:57:07.545 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:57:07.548 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:57:07.553 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:57:07.556 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:57:07.560 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:57:07.563 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:57:07.566 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:57:07.569 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:57:07.588 [main] INFO  com.gameserver.GameServerApplicationTests[61] - Started GameServerApplicationTests in 4.239 seconds (JVM running for 5.225)
+2021-11-07 16:57:07.645 [main] INFO  com.zaxxer.hikari.HikariDataSource[110] - HikariPool-1 - Starting...
+2021-11-07 16:57:08.594 [main] INFO  com.zaxxer.hikari.HikariDataSource[123] - HikariPool-1 - Start completed.
+2021-11-07 16:57:08.904 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource[350] - HikariPool-1 - Shutdown initiated...
+2021-11-07 16:57:08.913 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource[352] - HikariPool-1 - Shutdown completed.
+2021-11-07 16:58:11.830 [main] INFO  com.gameserver.GameServerApplicationTests[55] - Starting GameServerApplicationTests using Java 1.8.0_261 on DESKTOP-P25BT9T with PID 15996 (started by KittyGuy in D:\IdeaProjects\Game\GameServer)
+2021-11-07 16:58:11.832 [main] INFO  com.gameserver.GameServerApplicationTests[659] - No active profile set, falling back to default profiles: default
+2021-11-07 16:58:15.398 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:58:15.431 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:58:15.440 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:58:15.444 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:58:15.475 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:58:15.478 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:58:15.483 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:58:15.486 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:58:15.488 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:58:15.492 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:58:15.495 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:58:15.497 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 16:58:15.517 [main] INFO  com.gameserver.GameServerApplicationTests[61] - Started GameServerApplicationTests in 4.036 seconds (JVM running for 4.977)
+2021-11-07 16:58:15.573 [main] INFO  com.zaxxer.hikari.HikariDataSource[110] - HikariPool-1 - Starting...
+2021-11-07 16:58:16.556 [main] INFO  com.zaxxer.hikari.HikariDataSource[123] - HikariPool-1 - Start completed.
+2021-11-07 16:58:16.858 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource[350] - HikariPool-1 - Shutdown initiated...
+2021-11-07 16:58:16.866 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource[352] - HikariPool-1 - Shutdown completed.
+2021-11-07 19:29:49.567 [main] INFO  com.gameserver.GameServerApplicationTests[55] - Starting GameServerApplicationTests using Java 1.8.0_261 on DESKTOP-P25BT9T with PID 12048 (started by KittyGuy in D:\IdeaProjects\Game\GameServer)
+2021-11-07 19:29:49.569 [main] INFO  com.gameserver.GameServerApplicationTests[659] - No active profile set, falling back to default profiles: default
+2021-11-07 19:29:53.206 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 19:29:53.238 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 19:29:53.246 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 19:29:53.249 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 19:29:53.278 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 19:29:53.281 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 19:29:53.285 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 19:29:53.287 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 19:29:53.290 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 19:29:53.293 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 19:29:53.296 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 19:29:53.299 [main] WARN  s.d.s.r.operation.OperationImplicitParameterReader[170] - Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2021-11-07 19:29:53.320 [main] INFO  com.gameserver.GameServerApplicationTests[61] - Started GameServerApplicationTests in 4.115 seconds (JVM running for 5.108)
+2021-11-07 19:29:53.375 [main] INFO  com.zaxxer.hikari.HikariDataSource[110] - HikariPool-1 - Starting...
+2021-11-07 19:29:54.314 [main] INFO  com.zaxxer.hikari.HikariDataSource[123] - HikariPool-1 - Start completed.
+2021-11-07 19:29:54.587 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource[350] - HikariPool-1 - Shutdown initiated...
+2021-11-07 19:29:54.598 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource[352] - HikariPool-1 - Shutdown completed.
