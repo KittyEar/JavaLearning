@@ -1,1 +1,0 @@
-2021-11-12 22:14:52.163 [http-nio-8081-exec-6] ERROR com.gameserver.service.TavernService[111] - getTavernInfo error: playerId=1 lastFreeLotteryTime=null
