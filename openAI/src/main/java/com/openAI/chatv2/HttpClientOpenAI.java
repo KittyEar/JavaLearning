@@ -46,7 +46,7 @@ public class HttpClientOpenAI {
             HttpRequest request = HttpRequest.newBuilder()
                     .uri(URI.create("https://api.openai.com/v1/chat/completions"))
                     .header("Content-Type", "application/json")
-                    .header("Authorization", "Bearer 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")
+                    .header("Authorization", "Bearer you api key")
                     .POST(HttpRequest.BodyPublishers.ofString(requestBody))
                     .build();
 
