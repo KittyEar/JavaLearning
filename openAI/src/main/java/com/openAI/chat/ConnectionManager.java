@@ -17,7 +17,7 @@ public class ConnectionManager {
             conn.setRequestMethod("POST");
             // Set request properties
             conn.setRequestProperty("Content-Type", "application/json");
-            conn.setRequestProperty("Authorization", "Bearer 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");
+            conn.setRequestProperty("Authorization", "Bearer your Api Key");
             // Enable output
             conn.setDoOutput(true);
             return conn;
